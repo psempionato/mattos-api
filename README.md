@@ -1,11 +1,11 @@
 ### TESTE BACKEND MATTOS&CIA
 
-##Tecnologias Utilizadas
-PHP 8.1
-Laravel 10
-Composer
-Docker
-PostgreSql
+## Tecnologias Utilizadas
+- PHP 8.1
+- Laravel 10
+- Composer
+- Docker
+- PostgreSql
 
 ## Pré-requisitos
 Docker e Docker Compose instalados
